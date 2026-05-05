@@ -1,0 +1,77 @@
+/* Blog Header */
+.blog-header {
+  background: url('../../../imagenes/estructura/base/blog-top.jpg') repeat-y center top;
+  max-width: 100%;
+  height: 400px;
+  position: relative;
+}
+.blog-header:before {
+  background-color: #101931;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: .7;
+}
+/* Homepage Template */
+.front-header {
+  background: url('../../../imagenes/estructura/base/home.jpg') repeat-y center bottom;
+  max-width: 100%;
+  min-height: 570px;
+  position: relative;
+  overflow-y: hidden;
+}
+.front-header:before {
+  background-color: #101931;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: .7;
+}
+/* Blog Single */
+.blog-single-header {
+  background: url('../../../imagenes/post-top.jpg') repeat-y center center;
+  max-width: 100%;
+  height: 768px;
+  position: relative;
+}
+.blog-single-header:before {
+  background-color: #101931;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: .7;
+}
+/* Features */
+.section-features {
+  background: url('../../../imagenes/estructura/base/wood.jpg') repeat-y center center;
+}
+/* Counter */
+.section-counter {
+  background: url('../../../imagenes/counter.jpg') repeat-y center top;
+  max-width: 100%;
+  height: auto;
+  position: relative;
+}
+.section-counter:before {
+  background-color: #101931;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: .7;
+}
+/* Card */
+.section-card {
+  background: url('../../../imagenes/marine-2.jpg') repeat-y center center;
+}

@@ -1,0 +1,178 @@
+/*
+Equipo PW 
+Dirección de producción de contenidos
+Tecmilenio custom css 
+*/
+ul.View__ehkxkl-root.List__lccIMT-root li.View__ehkxkl-root:nth-child(4), #section-tabs li.section:nth-child(3) a.files, #section-tabs li a.files {
+    display: none;
+}
+#start_new_course {
+    display: none !important;
+}
+#profile_bio_label.profileHeader {
+    color: transparent;
+    height: 33px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+#profile_bio_label.profileHeader:before {
+    display: block;
+    content: "Propósito de vida";
+    color: var(--ic-brand-font-color-dark);
+}
+#right-side a.Button--course-settings:nth-child(5), #right-side a.Button--course-settings:nth-child(6), #right-side a.Button--course-settings:nth-child(7), #right-side a.Button--course-settings:nth-child(8), #right-side a.Button--course-settings:nth-child(9), #right-side a.Button--course-settings:nth-child(10) {
+    display: none;
+}
+#section-tabs .section a.home {
+    color: transparent;
+    height: 19px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+#section-tabs .section a.home:before {
+    display: block;
+    content: "Mi curso";
+    color: var(--ic-brand-font-color-dark);
+}
+#section-tabs .section a.syllabus {
+    color: transparent;
+    height: 19px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+#section-tabs .section a.syllabus:before {
+    display: block;
+    content: "Calendario";
+    color: var(--ic-brand-font-color-dark);
+}
+#section-tabs .section a.pages {
+    color: transparent;
+    height: 19px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+#section-tabs .section a.pages:before {
+    display: block;
+    content: "Contenido";
+    color: var(--ic-brand-font-color-dark);
+}
+#section-tabs .section a.context_external_tool_44 {
+    color: transparent;
+    height: 19px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+#section-tabs .section a.context_external_tool_44:before {
+    display: block;
+    content: "Sesiones virtuales";
+    color: var(--ic-brand-font-color-dark);
+}
+#section-tabs .section a.context_external_tool_46 {
+    color: transparent;
+    height: 19px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+#section-tabs .section a.context_external_tool_46:before {
+    display: block;
+    content: "Insignias";
+    color: var(--ic-brand-font-color-dark);
+}
+#section-tabs .section a.modules {
+    display: none;
+}
+:lang(en) #section-tabs .section a.home:before {
+    content: "My course";
+}
+:lang(en)#section-tabs .section a.syllabus:before {
+    content: "Calendar";
+}
+:lang(en)#section-tabs .section a.pages:before {
+    content: "Content";
+}
+:lang(en)#section-tabs .section a.context_external_tool_44:before {
+    content: "Virtual sessions";
+}
+:lang(en)#section-tabs .section a.context_external_tool_46:before {
+    content: "Insignia";
+}
+:lang(de) #section-tabs .section a.home:before {
+    content: "Mein Kurs";
+}
+:lang(de)#section-tabs .section a.syllabus:before {
+    content: "Kalender";
+}
+:lang(de)#section-tabs .section a.pages:before {
+    content: "Inhalt";
+}
+:lang(de)#section-tabs .section a.context_external_tool_44:before {
+    content: "Virtuelle session";
+}
+:lang(de)#section-tabs .section a.context_external_tool_46:before {
+    content: "Abzeichen";
+}
+:lang(fr) #section-tabs .section a.home:before {
+    content: "Mon cours";
+}
+:lang(fr)#section-tabs .section a.syllabus:before {
+    content: "Calendrier";
+}
+:lang(fr)#section-tabs .section a.pages:before {
+    content: "Contenu";
+}
+:lang(fr)#section-tabs .section a.context_external_tool_44:before {
+    content: "Sessions virtuelles";
+}
+:lang(fr)#section-tabs .section a.context_external_tool_46:before {
+    content: "Bagdes";
+}
+.ic-Layout-columns {
+    margin-left: 0px !important;
+}
+.with-left-side #left-side {
+    display: block !important;
+}
+.ic-app-course-menu {
+    left: 0;
+    opacity: 1;
+    background-color: #fff;
+    border: 2px solid #000;
+    border-radius: 3px;
+}
+.ic-Layout-contentMain {
+    padding-top: 0px;
+}
+.header-bar {
+    border-bottom: 0px;
+    min-height: 1px;
+}
+.header-bar-left {
+    display: none;
+}
+.pages.show .page-title {
+    display: none;
+}
+.pages .header-bar-outer-container {
+    min-height: 1px;
+    display: none;
+}
+.pages .header-bar-outer-container .header-bar-container {
+    min-height: 1px;
+    display: none;
+}
+.pages.show .show-content {
+    padding: 0 0px 0 0px;
+}
+.ic-Layout-contentMain {
+    padding: 20px;
+    padding-top: 0px;
+}
+.home #right-side-wrapper {
+	display:none !important;
+}
