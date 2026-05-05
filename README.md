@@ -12,15 +12,12 @@
 
 4. Agreguen los siguientes elementos funcionales en el programa:
 
-      Comprobar que su programa elimine los stopwords, ponga los tokens en minúsculas y los tokens tengan un tamaño máximo definido.
-      El buscador debe enlistar el top 10 de los documentos con un rank y el link funcional para cada documento.
-      El programa no debe cargar el índice o diccionario en memoria, debe accederlo directamente en disco.
-      Demostrar que la interfaz de la página web realiza llamadas CGI o equivalentes al momento de realizar la búsqueda.
+      a. Comprobar que su programa elimine los stopwords, ponga los tokens en minúsculas y los tokens tengan un tamaño máximo definido.<br>
+      b. El buscador debe enlistar el top 10 de los documentos con un rank y el link funcional para cada documento.<br>
+      c. El programa no debe cargar el índice o diccionario en memoria, debe accederlo directamente en disco.<br>
+      d. Demostrar que la interfaz de la página web realiza llamadas CGI o equivalentes al momento de realizar la búsqueda. Incluyan la dirección de su buscador web para que sea probado localmente.<br>
+      e. Realicen las impresiones de pantalla y las búsquedas de cada una de las siguientes consultas:
 
-5. Incluyan la dirección de su buscador web para que sea probado localmente.
-6. Realicen las impresiones de pantalla y las búsquedas de cada una de las siguientes consultas:
-
-    
         exploitation
         hygiene
         exploitation hygiene
@@ -30,6 +27,6 @@
         elephants
         Gauch
         20
-  
-8. Realicen el diagrama de flujo del programa.
-9. Presenten los resultados de pruebas de carga en TFS.
+
+      f. Realicen el diagrama de flujo del programa.
+      g. Presenten los resultados de pruebas de carga en TFS.
