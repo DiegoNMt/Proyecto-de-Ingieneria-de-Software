@@ -28,5 +28,5 @@
         Gauch
         20
 
-      f. Realicen el diagrama de flujo del programa.
+      f. Realicen el diagrama de flujo del programa.<br>
       g. Presenten los resultados de pruebas de carga en TFS.
