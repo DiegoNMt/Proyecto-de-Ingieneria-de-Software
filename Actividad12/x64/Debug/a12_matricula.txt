@@ -1,0 +1,72 @@
+Consulta: lawyer consumers
+Modo: CON stop list
+Tiempo: 0.003136 segundos
+======================================
+Consulta: lawyer consumers
+Modo: SIN stop list
+Tiempo: 0.0041719 segundos
+======================================
+Consulta: lawyer consumers
+Modo: CON stop list
+Tiempo: 0.0032343 segundos
+======================================
+Consulta: mGauch
+Modo: SIN stop list
+Tiempo: 0.0013149 segundos
+======================================
+Consulta: Gauch
+Modo: CON stop list
+Tiempo: 0.0020902 segundos
+======================================
+Consulta: Gauch
+Modo: SIN stop list
+Tiempo: 0.0020123 segundos
+======================================
+Consulta: elephants
+Modo: SIN stop list
+Tiempo: 0.001765 segundos
+======================================
+Consulta: CSCE
+Modo: SIN stop list
+Tiempo: 0.0015427 segundos
+======================================
+Consulta: Arkansas
+Modo: SIN stop list
+Tiempo: 0.0014559 segundos
+======================================
+Consulta: gift
+Modo: CON stop list
+Tiempo: 0.0019922 segundos
+======================================
+Consulta: gift
+Modo: SIN stop list
+Tiempo: 0.0017416 segundos
+======================================
+Consulta: abcdef
+Modo: SIN stop list
+Tiempo: 0.0009072 segundos
+======================================
+Consulta: 20
+Modo: SIN stop list
+Tiempo: 0.0019375 segundos
+======================================
+Consulta: 20.07
+Modo: SIN stop list
+Tiempo: 0.0013883 segundos
+======================================
+Consulta: 123-456-7890
+Modo: SIN stop list
+Tiempo: 0.0013443 segundos
+======================================
+Consulta: lawyer consumers
+Modo: SIN stop list
+Tiempo: 0.0031398 segundos
+======================================
+Consulta: garden computer
+Modo: SIN stop list
+Tiempo: 0.0025779 segundos
+======================================
+Consulta: United States laws
+Modo: SIN stop list
+Tiempo: 0.0077556 segundos
+======================================
